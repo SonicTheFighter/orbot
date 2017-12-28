@@ -1,13 +1,12 @@
 {
-  "name": "Orbot",
+  "name": "Cubot",
+  "version": "1.0.0",
   "description": "The most advanced pieces of Eggman's inventions! Really, Orbot, you had to make me type this DOWN? I'd dismantle you if you made me do it again.",
-  "version": "Why would you want to know?",
   "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
+  "author": "Eggman, also known as DatPrayingFuto#8007.",
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
   }
 }
+
